@@ -1,63 +1,67 @@
 ---
-title: "CV – Jonathan Luce"
+layout: default
+title: "CV – Prénom Nom"
 ---
 
-# Jonathan Luce
-*Ingénieur systèmes embarqués – Linux & Logiciels Open Source*
+# Prénom Nom
+*Développeur Logiciel Embarqué*
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
+<!-- Colonne gauche -->
 <div style="flex: 1; padding: 10px; background-color:#f8f8f8; border-radius:10px;">
 
-## Contact
-📧 [jonathan.luce@live.com](mailto:jonathan.luce@live.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/jonathan-luce-864202141/)  
-📍 Auvergne-Rhône-Alpes, France  
+![Photo](photo.jpg){:style="border-radius:50%;width:120px;"}
 
-## Compétences techniques
-- C, C++, Python, C#  
-- Yocto, RTOS, Linux embarqué  
-- Git, CI/CD (Bamboo, GitLab)  
-- Tests unitaires, revues de code  
-- Clean Code, SOLID, Design Patterns  
+## Contact
+📧 email@example.com  
+📱 +33 6 12 34 56 78  
+🌐 [github.com/username](https://github.com/username)  
+🔗 [linkedin.com/in/username](https://linkedin.com/in/username)  
+
+## Compétences
+- C, C++, Python  
+- FreeRTOS, STM32, NXP  
+- Git, Docker, CMake  
+- UART, SPI, I2C, CAN  
 
 ## Langues
 - Français (natif)  
-- Anglais (professionnel)  
+- Anglais (courant)  
+- Allemand (notions)  
+
+## Intérêts
+- Robotique  
+- IoT  
+- Drone FPV  
 
 </div>
 
+<!-- Colonne droite -->
 <div style="flex: 2; padding: 10px;">
 
 ## Expérience professionnelle
 
-### ANDRICE (sept. 2021 – présent)  
-**Ingénieur systèmes embarqués – Mission chez Markem Imaje**  
-- Développement en **C++ et C#** sur plateformes ARM Cortex-M/A.  
-- Création d’images Linux embarquées avec **Yocto**.  
-- Optimisation mémoire et performance temps réel.  
-- Revues de code, CI/CD (Bamboo), pratiques Clean Code & SOLID.  
-- Collaboration internationale (France, Inde, Allemagne) en **Scrum**.  
+**Société X** – *Ingénieur Logiciel Embarqué* (2021–présent)  
+- Développement firmware sur STM32 (C, FreeRTOS)  
+- Mise en place CI/CD (GitLab CI)  
+- Optimisation mémoire et performance  
 
----
-
-### FAUN Environnement (2013 – 2021)  
-**Ingénieur systèmes embarqués**  
-- Développement C/C++/Shell pour fonctionnalités embarquées.  
-- Mise en place d’une **architecture IoT** pour collecte et analyse de données.  
-- Refonte logicielle pour assurer la compatibilité et résoudre l’obsolescence.  
-- Développement d’outils Python/VBA pour automatiser les tests.  
-- Amélioration d’IHM embarquées et traitement de données avec Matlab.  
-
-**Apprenti ingénieur**  
-- Développement de logiciels critiques de contrôle-commande (ST).  
-- Modélisation et simulation de systèmes physiques (Matlab, Simulink, Simscape).  
+**Entreprise Y** – *Stage de fin d’études* (2020)  
+- Développement driver CAN (NXP, C)  
+- Validation avec oscilloscope et analyseur logique  
 
 ---
 
 ## Formation
-🎓 **Grenoble INP – Esisar** (2011 – 2016)  
-Diplôme d’ingénieur en ingénierie électrique, électronique et communications  
+🎓 Diplôme d’ingénieur en systèmes embarqués – École Z (2015–2020)  
+
+---
+
+## Projets personnels
+- Développement d’un OS minimaliste pour ARM Cortex-M  
+- Conception d’un drone FPV contrôlé via télécommande custom  
+- Contribution à une librairie RTOS open-source sur GitHub  
 
 </div>
 </div>
