@@ -3,6 +3,30 @@ layout: default
 title: "CV – Jonathan Luce"
 ---
 
+<style>
+.cv-container {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+.cv-left {
+  flex: 1;
+  padding: 15px;
+  background-color: #f8f8f8;
+  border-radius: 12px;
+}
+.cv-right {
+  flex: 2;
+  padding: 15px;
+}
+.profile-photo {
+  border-radius: 50%;
+  width: 120px;
+  margin-bottom: 20px;
+}
+</style>
+
 # Jonathan Luce
 *Ingénieur systèmes embarqués – Linux & Logiciels Open Source*
 
