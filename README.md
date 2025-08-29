@@ -10,7 +10,6 @@ title: "CV – Jonathan Luce"
 
 <div class="cv-container">
 
-<!-- Colonne gauche -->
 <div class="cv-left">
 
 ## Contact
@@ -50,7 +49,6 @@ title: "CV – Jonathan Luce"
 
 </div>
 
-<!-- Colonne droite -->
 <div class="cv-right">
 
 ## Résumé
