@@ -3,6 +3,8 @@ layout: default
 title: "CV – Jonathan Luce"
 ---
 
+<link rel="stylesheet" href="assets/style.css">
+
 # Jonathan Luce
 *Ingénieur systèmes embarqués – Linux & Logiciels Open Source*
 
