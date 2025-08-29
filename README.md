@@ -2,37 +2,12 @@
 title: "CV – Jonathan Luce"
 ---
 
-<style>
-.cv-container {
-  display: flex;
-  gap: 20px;
-  align-items: flex-start;
-  margin-top: 20px;
-}
-.cv-left {
-  flex: 1;
-  padding: 15px;
-  background-color: #f8f8f8;
-  border-radius: 12px;
-}
-.cv-right {
-  flex: 2;
-  padding: 15px;
-}
-.profile-photo {
-  border-radius: 50%;
-  width: 120px;
-  margin-bottom: 20px;
-}
-</style>
-
 # Jonathan Luce
 *Ingénieur systèmes embarqués – Linux & Logiciels Open Source*
 
-<div class="cv-container">
+<div style="display: flex; gap: 20px; align-items: flex-start;">
 
-<!-- Colonne gauche -->
-<div class="cv-left">
+<div style="flex: 1; padding: 10px; background-color:#f8f8f8; border-radius:10px;">
 
 ## Contact
 📧 [jonathan.luce@live.com](mailto:jonathan.luce@live.com)  
@@ -52,8 +27,7 @@ title: "CV – Jonathan Luce"
 
 </div>
 
-<!-- Colonne droite -->
-<div class="cv-right">
+<div style="flex: 2; padding: 10px;">
 
 ## Expérience professionnelle
 
