@@ -32,8 +32,10 @@ title: "CV – Jonathan Luce"
 
 <div class="cv-container">
 
-<!-- Colonne gauche -->
 <div class="cv-left">
+
+
+![Photo](photo.jpg){:class="profile-photo"}
 
 ## Contact
 📧 [jonathan.luce@live.com](mailto:jonathan.luce@live.com)  
@@ -42,8 +44,7 @@ title: "CV – Jonathan Luce"
 
 ## Compétences clés
 **Langages :**  
-- C, C++, Python, C#  
-- Familiarité avec Go (apprentissage en cours)  
+- C, C++, Python, C#    
 - Shell scripting  
 
 **Linux & systèmes embarqués :**  
@@ -53,7 +54,7 @@ title: "CV – Jonathan Luce"
 - Notions réseau & sécurité logicielle  
 
 **Outils & pratiques :**  
-- Git, Intégration Continue (Bamboo, GitLab CI/CD)  
+- Git, Intégration Continue (Bamboo, CI/CD)  
 - Tests unitaires & intégration  
 - Revues de code collaboratives  
 - Clean Code, SOLID, Design Patterns  
@@ -68,18 +69,16 @@ title: "CV – Jonathan Luce"
 ## Intérêts
 - Open Source & Linux  
 - IoT et systèmes connectés  
-- Ingénierie logicielle de haute qualité  
+- Qualité ingénierie logicielle  
 
 </div>
 
-<!-- Colonne droite -->
 <div class="cv-right">
 
 ## Résumé
 Ingénieur systèmes embarqués spécialisé en développement Linux et logiciels temps réel,  
 avec une solide expérience sur microcontrôleurs ARM et environnements Yocto.  
-Passionné par l’open source et la qualité logicielle, j’ai travaillé en contexte international  
-(France, Allemagne, Inde) avec des équipes distribuées, en méthodologie **Scrum**.  
+Passionné par l’open source et la qualité logicielle, j’ai travaillé en contexte international (France, Allemagne, Inde) avec des équipes distribuées, en méthodologie Scrum.  
 Mon objectif est de contribuer à des projets open source ambitieux et impactants,  
 en concevant des logiciels robustes, sécurisés et maintenables.  
 
@@ -94,7 +93,7 @@ en concevant des logiciels robustes, sécurisés et maintenables.
 - Création d’**images Linux embarquées via Yocto** pour microprocesseurs hétérogènes.  
 - Contribution à l’**optimisation des performances temps réel** (mémoire, exécution).  
 - Participation aux **revues de code** et à la mise en œuvre de bonnes pratiques (Clean Code, SOLID, Design Patterns).  
-- Collaboration avec des équipes en Inde et en Allemagne, dans un cadre **Scrum international**.  
+- Collaboration avec des équipes en Inde, dans un cadre **Scrum international**.  
 - Contribution aux pipelines d’**intégration continue** avec **Bamboo**.  
 - Implication dans des discussions techniques autour de la **robustesse et la sécurité logicielle**.  
 
