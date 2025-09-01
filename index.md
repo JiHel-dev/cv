@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CV – Jonathan Luce"
+title: "Resume – Jonathan Luce"
 ---
 
 <style>
@@ -29,7 +29,7 @@ title: "CV – Jonathan Luce"
 </style>
 
 # Jonathan Luce
-*Ingénieur logiciel embarqués – Linux & Logiciels Open Source*
+*Embedded software engineer – Open source & Linux software*
 
 <div class="cv-container">
 
@@ -43,97 +43,98 @@ title: "CV – Jonathan Luce"
 🌐 [LinkedIn](https://www.linkedin.com/in/jonathan-luce-864202141/)  
 📍 Auvergne-Rhône-Alpes, France  
 
-## Compétences
-**Langages :**  
+## Skills
+**Programming languages :**  
 - C, C++ 
 - Python 
 - Shell scripting 
 - C# 
 
-**Systèmes embarqués :**  
-- Yocto Project, Linux embarqué, RTOS  
+**Embedded systems  :**  
+- Yocto Project, Embedded Linux, RTOS  
 - ARM Cortex-M / Cortex-A  
-- Optimisation mémoire et temps réel  
-- Debug système (gdb, perf, traces)  
+- Real time & memory optimization
+- Debugging (gdb, perf, traces)  
 
-**Outils & pratiques :**  
-- Git, Intégration Continue (Bamboo, CI/CD)  
-- Tests unitaires & intégration  
-- Revues de code collaboratives  
+**Tools & practices :**  
+- Git, Continous Integration (Bamboo, CI/CD)  
+- Integration & unit tests  
+- Collaborative code review  
 - Clean Code, SOLID, Design Patterns  
 
 **Architecture & simulation :**  
-- Modélisation sous Matlab/Simulink/Simscape  
-- Logiciel multi-plateforme
-- Connaissances réseau et sécurité logicielle  
+- Matlab/Simulink/Simscape modeling
+- Multi-platform software 
+- Network and software security knowledge
 
-## Langues
-- Français (natif)  
-- Anglais (professionnel)  
+## Languages
+- French (native)  
+- English (professional)  
 
-## Intérêts
+## Interests
 - Open Source & Linux  
-- IoT & systèmes connectés  
-- Qualité ingénierie logicielle  
-- Kernel & optimisation bas-niveau  
+- IoT  
+- Software quality  
+- Kernel & low-level optimization 
 
 </div>
 
 <div class="cv-right">
 
-## Résumé
-Ingénieur logiciel embarqués passionné par Linux et l’open source, spécialisé dans le développement bas-niveau sur plateformes ARM, avec une expérience significative sur Yocto, RTOS et logiciels temps réel.  
-Habitué aux environnements contraints (mémoire, performance, robustesse), je souhaite contribuer au développement d’Ubuntu Core et aux solutions open source de Canonical. 
+## About me
+As an embedded software engineer, I am an enthusiast of Linux and open source ecosystem. I specialize in low level software development on ARM platform, with strong experience in Yocto, RTOS and real-time application.
+I work daily on constrained environment (memory, performance, robustness), I am willing to contribute to Ubuntu Core and to Canonical solutions.
 
 ---
 
-## Expérience professionnelle
+## Work Experience
 
-### ANDRICE (2021 – présent)  
-**Ingénieur systèmes embarqués – Mission chez Markem Imaje**  
+### ANDRICE (2021 – present)  
+**Embedded Systems Engineer – Mission with Markem Imaje**  
 
-- Développement en **C++ et C#** sur microcontrôleurs ARM Cortex-M et Cortex-A.  
-- Conception d’**images Linux embarquées via Yocto**, intégration OS temps réel et communication inter-processeurs.  
-- Contribution à l’**optimisation des performances et de la robustesse** logicielle (gestion mémoire, temps de réponse).  
-- Implémentation de **principes Clean Code, SOLID, design patterns**.  
-- Participation à des **revues de code collaboratives** et à l’**intégration continue** (Bamboo).  
-- Collaboration avec des équipes internationales (France, Inde) en **Scrum**.  
+- Development in **C++ and C#** on ARM Cortex-M and Cortex-A platforms.  
+- Generation of **Embedded Linux images with Yocto**, integration of real-time OS and inter-core communication.  
+- Contribution to **performance optimization and software robustness** (memory management, response time).  
+- Implementation of **Clean Code principles, SOLID design, and design patterns**.  
+- Active participation in **collaborative code reviews** and **Continuous Integration** pipelines (Bamboo).  
+- Close collaboration with international teams (France, India) in an **Agile Scrum** environment.  
 
 ---
 
 ### FAUN Environnement (2013 – 2021)  
 
-**Ingénieur systèmes embarqués** (2016 – 2021)  
-- Développement logiciel embarqué en C/C++/Shell pour véhicules industriels (CAN, IoT).  
-- **Définition et mise en place d’une architecture IoT** pour collecte, sécurisation et analyse des données.  
-- Refonte d’architectures logicielles pour assurer compatibilité et pérennité matériel/logiciel.  
-- Amélioration et correction de l’**IHM embarquée** (langage ST).  
-- Création d’**outils Python/VBA** pour automatiser les tests et l’analyse des données.  
-- Génération d’images Linux embarquées avec **Yocto**.  
+**Embedded Systems Engineer** (2016 – 2021)  
+- Development of embedded software in C/C++/Shell for industrial vehicles (CAN bus, IoT).  
+- **Design and deployment of an IoT architecture** for data collection, security, and analysis.  
+- Redesign of software architectures to ensure long-term **compatibility and maintainability** of hardware/software systems.  
+- Enhancement and debugging of the **embedded HMI** (ST language, C#).  
+- Development of **Python/VBA tools** to automate testing and data analysis.  
+- Creation of customized **Embedded Linux images with Yocto**.  
 
-**Apprenti ingénieur** (2013 – 2016)  
-- Développement de logiciels critiques de **contrôle-commande** (ST).  
-- Rédaction de spécifications logicielles.  
-- Modélisation et régulation de systèmes hydrauliques via Matlab, Simulink et Simscape.  
+**Apprentice Engineer** (2013 – 2016)  
+- Development of critical **control-command software** (ST language).  
+- Drafting and review of software specifications.  
+- **Modeling and regulation of hydraulic systems** using Matlab, Simulink and Simscape.  
 
 ---
 
-## Formation
+## Education & Training
+
 🎓 **Grenoble INP – Esisar, Valence** (2011 – 2016)  
-Diplôme d’ingénieur en systèmes embarqués (électronique, automatique, informatique et réseaux).  
-Spécialité : électronique, informatique et systèmes – Mention bien.  
+Engineering degree in Embedded Systems (electronics, automation, computer science, and networks).  
+Specialization in Electronics, Computer Science and Systems – Graduated with honors.  
 
-📘 **Formation Yocto** (juillet 2025)  
-Création et customisation d’images Linux via le projet Yocto – Développement de drivers.   
+📘 **Yocto Project Training** (July 2025)  
+Creation and customization of Embedded Linux images using the Yocto Project – Development of device drivers.  
 
-📘 **Formation ISO 13849-1** (juillet 2018)  
-Sécurité fonctionnelle – Utilisation du logiciel SISTEMA pour le calcul de Performance Level (PL).  
+📘 **ISO 13849-1 Training** (July 2018)  
+Functional safety – Use of SISTEMA software for Performance Level (PL) calculation.  
 
-📘 **Formation AMDEC** (juin 2018)  
-Analyse des modes de défaillance, de leurs effets et de leur criticité – Application de la méthode à un nouveau produit.  
+📘 **FMEA / AMDEC Training** (June 2018)  
+Failure Mode, Effects and Criticality Analysis – Practical application to a new product.  
 
-📘 **Formation MATLAB – Simulink** (avril 2017)  
-Écriture de scripts Matlab – Utilisation de Simulink – Modélisation multiphysique. 
+📘 **Matlab & Simulink Training** (April 2017)  
+Development of Matlab scripts – Use of Simulink solver – Multiphysics modeling and simulation.  
 
 </div>
 </div>
