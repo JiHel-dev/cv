@@ -28,7 +28,7 @@ title: "CV – Jonathan Luce"
 </style>
 
 # Jonathan Luce
-*Ingénieur systèmes embarqués – Linux & Logiciels Open Source*
+*Ingénieur logiciel embarqués*
 
 <div class="cv-container">
 
@@ -42,16 +42,18 @@ title: "CV – Jonathan Luce"
 🌐 [LinkedIn](https://www.linkedin.com/in/jonathan-luce-864202141/)  
 📍 Auvergne-Rhône-Alpes, France  
 
-## Compétences clés
+## Compétences
 **Langages :**  
-- C, C++, Python, C#    
-- Shell scripting  
+- C, C++ 
+- Python 
+- Shell scripting 
+- C# 
 
-**Linux & systèmes embarqués :**  
-- Yocto, RTOS, Linux temps réel  
+**Systèmes embarqués :**  
+- Yocto Project, Linux embarqué, RTOS  
 - ARM Cortex-M / Cortex-A  
+- Optimisation mémoire et temps réel  
 - Debug système (gdb, perf, traces)  
-- Notions réseau & sécurité logicielle  
 
 **Outils & pratiques :**  
 - Git, Intégration Continue (Bamboo, CI/CD)  
@@ -59,8 +61,10 @@ title: "CV – Jonathan Luce"
 - Revues de code collaboratives  
 - Clean Code, SOLID, Design Patterns  
 
-**Simulation & modélisation :**  
-- Matlab, Simulink, Simscape  
+**Architecture & simulation :**  
+- Modélisation sous Matlab/Simulink/Simscape  
+- Logiciel multi-plateforme
+- Connaissances réseau et sécurité logicielle  
 
 ## Langues
 - Français (natif)  
@@ -68,57 +72,66 @@ title: "CV – Jonathan Luce"
 
 ## Intérêts
 - Open Source & Linux  
-- IoT et systèmes connectés  
+- IoT & systèmes connectés  
 - Qualité ingénierie logicielle  
+- Kernel & optimisation bas-niveau  
 
 </div>
 
 <div class="cv-right">
 
 ## Résumé
-Ingénieur systèmes embarqués spécialisé en développement Linux et logiciels temps réel,  
-avec une solide expérience sur microcontrôleurs ARM et environnements Yocto.  
-Passionné par l’open source et la qualité logicielle, j’ai travaillé en contexte international (France, Allemagne, Inde) avec des équipes distribuées, en méthodologie Scrum.  
-Mon objectif est de contribuer à des projets open source ambitieux et impactants,  
-en concevant des logiciels robustes, sécurisés et maintenables.  
+Passionné d'informatique et de nouvelles technologies depuis l'enfance, le développement logiciel s'est imposé comme une suite logique à mon orientation professionnelle. Je suis donc perpétuellement de nouvelles connaissances afin de progresser dans le monde du logiciel.
 
 ---
 
 ## Expérience professionnelle
 
-### ANDRICE (sept. 2021 – présent)  
+### ANDRICE (2021 – présent)  
 **Ingénieur systèmes embarqués – Mission chez Markem Imaje**  
 
-- Développement de logiciels embarqués en **C++ et C#** sur plateformes ARM Cortex-M/A.  
-- Création d’**images Linux embarquées via Yocto** pour microprocesseurs hétérogènes.  
-- Contribution à l’**optimisation des performances temps réel** (mémoire, exécution).  
-- Participation aux **revues de code** et à la mise en œuvre de bonnes pratiques (Clean Code, SOLID, Design Patterns).  
-- Collaboration avec des équipes en Inde, dans un cadre **Scrum international**.  
-- Contribution aux pipelines d’**intégration continue** avec **Bamboo**.  
-- Implication dans des discussions techniques autour de la **robustesse et la sécurité logicielle**.  
+- Développement en **C++ et C#** sur microcontrôleurs ARM Cortex-M et Cortex-A.  
+- Conception d’**images Linux embarquées via Yocto**, intégration OS temps réel et communication inter-processeurs.  
+- Contribution à l’**optimisation des performances et de la robustesse** logicielle (gestion mémoire, temps de réponse).  
+- Implémentation de **principes Clean Code, SOLID, design patterns**.  
+- Participation à des **revues de code collaboratives** et à l’**intégration continue** (Bamboo).  
+- Collaboration avec des équipes internationales (France, Inde) en **Scrum**.  
 
 ---
 
 ### FAUN Environnement (2013 – 2021)  
 
 **Ingénieur systèmes embarqués** (2016 – 2021)  
-- Spécification, conception et développement de fonctionnalités logicielles embarquées en C/C++ et Shell pour véhicules industriels.  
-- Mise en place d’une **architecture IoT** pour collecte et analyse de données en temps réel.  
-- Refonte d’architectures logicielles afin d’assurer la pérennité et la compatibilité matériel/logiciel.  
-- Amélioration de l’**IHM embarquée** et ajout de fonctionnalités pour améliorer l’expérience utilisateur.  
-- Développement d’outils Python/VBA pour automatiser les tests et l’analyse des données.  
-- Création d’images Linux embarquées personnalisées avec **Yocto**.  
+- Développement logiciel embarqué en C/C++/Shell pour véhicules industriels (CAN, IoT).  
+- **Définition et mise en place d’une architecture IoT** pour collecte, sécurisation et analyse des données.  
+- Refonte d’architectures logicielles pour assurer compatibilité et pérennité matériel/logiciel.  
+- Amélioration et correction de l’**IHM embarquée** (langage ST).  
+- Création d’**outils Python/VBA** pour automatiser les tests et l’analyse des données.  
+- Génération d’images Linux embarquées avec **Yocto**.  
 
 **Apprenti ingénieur** (2013 – 2016)  
-- Développement de logiciels critiques de **contrôle-commande** (ST) pour systèmes hydrauliques.  
+- Développement de logiciels critiques de **contrôle-commande** (ST).  
 - Rédaction de spécifications logicielles.  
-- Modélisation et simulation de systèmes physiques (Matlab, Simulink, Simscape).  
+- Modélisation et régulation de systèmes hydrauliques via Matlab, Simulink et Simscape.  
 
 ---
 
 ## Formation
-🎓 **Grenoble INP – Esisar** (2011 – 2016)  
-Diplôme d’ingénieur en ingénierie électrique, électronique et communications  
+🎓 **Grenoble INP – Esisar, Valence** (2011 – 2016)  
+Diplôme d’ingénieur en systèmes embarqués (électronique, automatique, informatique et réseaux).  
+Spécialité : électronique, informatique et systèmes – Mention bien.  
+
+📘 **Formation Yocto** (juillet 2025)  
+Création et customisation d’images Linux via le projet Yocto – Développement de drivers.   
+
+📘 **Formation ISO 13849-1** (juillet 2018)  
+Sécurité fonctionnelle – Utilisation du logiciel SISTEMA pour le calcul de Performance Level (PL).  
+
+📘 **Formation AMDEC** (juin 2018)  
+Analyse des modes de défaillance, de leurs effets et de leur criticité – Application de la méthode à un nouveau produit.  
+
+📘 **Formation MATLAB – Simulink** (avril 2017)  
+Écriture de scripts Matlab – Utilisation de Simulink – Modélisation multiphysique. 
 
 </div>
 </div>
