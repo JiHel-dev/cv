@@ -17,12 +17,13 @@ title: "CV – Jonathan Luce"
   border-radius: 12px;
 }
 .cv-right {
-  flex: 2;
+  flex: 4;
   padding: 15px;
 }
 .profile-photo {
   border-radius: 50%;
-  width: 120px;
+  height: auto;
+  width: 100%;
   margin-bottom: 20px;
 }
 </style>
