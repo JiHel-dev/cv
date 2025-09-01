@@ -28,7 +28,7 @@ title: "CV – Jonathan Luce"
 </style>
 
 # Jonathan Luce
-*Ingénieur logiciel embarqués*
+*Ingénieur logiciel embarqués – Linux & Logiciels Open Source*
 
 <div class="cv-container">
 
@@ -81,7 +81,8 @@ title: "CV – Jonathan Luce"
 <div class="cv-right">
 
 ## Résumé
-Passionné d'informatique et de nouvelles technologies depuis l'enfance, le développement logiciel s'est imposé comme une suite logique à mon orientation professionnelle. Je suis donc perpétuellement de nouvelles connaissances afin de progresser dans le monde du logiciel.
+Ingénieur logiciel embarqués passionné par Linux et l’open source, spécialisé dans le développement bas-niveau sur plateformes ARM, avec une expérience significative sur Yocto, RTOS et logiciels temps réel.  
+Habitué aux environnements contraints (mémoire, performance, robustesse), je souhaite contribuer au développement d’Ubuntu Core et aux solutions open source de Canonical. 
 
 ---
 
