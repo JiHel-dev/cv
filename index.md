@@ -17,12 +17,13 @@ title: "CV – Jonathan Luce"
   border-radius: 12px;
 }
 .cv-right {
-  flex: 2;
+  flex: 4;
   padding: 15px;
 }
 .profile-photo {
   border-radius: 50%;
-  width: 120px;
+  height: auto;
+  width: 100%;
   margin-bottom: 20px;
 }
 </style>
@@ -50,7 +51,7 @@ title: "CV – Jonathan Luce"
 - C# 
 
 **Systèmes embarqués :**  
-- Yocto Project, Linux embarqué, RTOS  
+- Yocto Project, Linux embarqué, RTOS, Windows Embedded  
 - ARM Cortex-M / Cortex-A  
 - Optimisation mémoire et temps réel  
 - Debug système (gdb, perf, traces)  
@@ -60,6 +61,7 @@ title: "CV – Jonathan Luce"
 - Tests unitaires & intégration  
 - Revues de code collaboratives  
 - Clean Code, SOLID, Design Patterns  
+- Docker  
 
 **Architecture & simulation :**  
 - Modélisation sous Matlab/Simulink/Simscape  
@@ -74,7 +76,6 @@ title: "CV – Jonathan Luce"
 - Open Source & Linux  
 - IoT & systèmes connectés  
 - Qualité ingénierie logicielle  
-- Kernel & optimisation bas-niveau  
 
 </div>
 
@@ -102,15 +103,15 @@ Passionné d'informatique et de nouvelles technologies depuis l'enfance, le dév
 ### FAUN Environnement (2013 – 2021)  
 
 **Ingénieur systèmes embarqués** (2016 – 2021)  
-- Développement logiciel embarqué en C/C++/Shell pour véhicules industriels (CAN, IoT).  
 - **Définition et mise en place d’une architecture IoT** pour collecte, sécurisation et analyse des données.  
+- Développement logiciel embarqué en C/C++/Shell pour véhicules industriels (Contrôle-commande, CAN, IoT).  
 - Refonte d’architectures logicielles pour assurer compatibilité et pérennité matériel/logiciel.  
-- Amélioration et correction de l’**IHM embarquée** (langage ST).  
+- Amélioration et correction de l’**IHM embarquée**.  
 - Création d’**outils Python/VBA** pour automatiser les tests et l’analyse des données.  
 - Génération d’images Linux embarquées avec **Yocto**.  
 
 **Apprenti ingénieur** (2013 – 2016)  
-- Développement de logiciels critiques de **contrôle-commande** (ST).  
+- Développement de logiciels critiques de **contrôle-commande**.  
 - Rédaction de spécifications logicielles.  
 - Modélisation et régulation de systèmes hydrauliques via Matlab, Simulink et Simscape.  
 
