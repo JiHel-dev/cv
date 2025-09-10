@@ -21,10 +21,10 @@ title: "CV – Jonathan Luce"
   padding: 15px;
 }
 .profile-photo {
-  border-radius: 50%;
+  border-radius: 2%;
   height: auto;
-  width: 100%;
-  margin-bottom: 20px;
+  width: 60%;
+  margin-left: 5px;
 }
 
 </style>
@@ -35,12 +35,13 @@ title: "CV – Jonathan Luce"
 
 ## Jonathan Luce
 
-![Photo](photo.jpg){:class="profile-photo"}
+![Photo](photo.jpg){class="profile-photo"}
 
 ### Contact
 📧 [jonathan.luce@live.com](mailto:jonathan.luce@live.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/jonathan-luce-864202141/)  
-📍 Auvergne-Rhône-Alpes, France  
+📞 06.89.40.62.93  
+📍 La Voulte-sur-Rône
 
 ### Compétences
 **Langages :** 
@@ -56,7 +57,7 @@ title: "CV – Jonathan Luce"
 - Debug système (gdb, perf, traces)  
 
 **Outils & pratiques :**  
-- Git, Intégration Continue (Bamboo, CI/CD)  
+- Git, Intégration Continue (Bamboo, Gitlab CI/CD)  
 - Tests unitaires & intégration  
 - Revues de code collaboratives  
 - Clean Code, SOLID, Design Patterns  
@@ -106,7 +107,7 @@ Passionné d'informatique et de nouvelles technologies depuis l'enfance, le dév
 
 **Ingénieur systèmes embarqués** (2016 – 2021)  
 - **Définition et mise en place d’une architecture IoT** pour collecte, sécurisation et analyse des données.  
-- Développement logiciel embarqué en C/C++/Shell pour véhicules industriels (Contrôle-commande, CAN, IoT).  
+- Développement logiciel embarqué en **C/C++/Shell** pour véhicules industriels (Contrôle-commande, CAN, IoT).  
 - Refonte d’architectures logicielles pour assurer compatibilité et pérennité matériel/logiciel.  
 - Amélioration et correction de l’**IHM embarquée**.  
 - Création d’**outils Python/VBA** pour automatiser les tests et l’analyse des données.  
