@@ -17,7 +17,7 @@ title: "CV – Jonathan Luce"
   border-radius: 12px;
 }
 .cv-right {
-  flex: 4;
+  flex: 3;
   padding: 15px;
 }
 .profile-photo {
@@ -26,25 +26,24 @@ title: "CV – Jonathan Luce"
   width: 100%;
   margin-bottom: 20px;
 }
-</style>
 
-# Jonathan Luce
-*Ingénieur logiciel embarqués*
+</style>
 
 <div class="cv-container">
 
 <div class="cv-left">
 
+## Jonathan Luce
 
 ![Photo](photo.jpg){:class="profile-photo"}
 
-## Contact
+### Contact
 📧 [jonathan.luce@live.com](mailto:jonathan.luce@live.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/jonathan-luce-864202141/)  
 📍 Auvergne-Rhône-Alpes, France  
 
-## Compétences
-**Langages :**  
+### Compétences
+**Langages :** 
 - C, C++ 
 - Python 
 - Shell scripting 
@@ -68,11 +67,11 @@ title: "CV – Jonathan Luce"
 - Logiciel multi-plateforme
 - Connaissances réseau et sécurité logicielle  
 
-## Langues
+### Langues
 - Français (natif)  
 - Anglais (professionnel)  
 
-## Intérêts
+### Intérêts
 - Open Source & Linux  
 - IoT & systèmes connectés  
 - Qualité ingénierie logicielle  
@@ -81,14 +80,17 @@ title: "CV – Jonathan Luce"
 
 <div class="cv-right">
 
-## Résumé
+# *Ingénieur logiciel embarqués*
+
+
+### Résumé
 Passionné d'informatique et de nouvelles technologies depuis l'enfance, le développement logiciel s'est imposé comme une suite logique à mon orientation professionnelle. Je suis donc perpétuellement de nouvelles connaissances afin de progresser dans le monde du logiciel.
 
 ---
 
-## Expérience professionnelle
+### Expérience professionnelle
 
-### ANDRICE (2021 – présent)  
+#### ANDRICE (2021 – présent)  
 **Ingénieur systèmes embarqués – Mission chez Markem Imaje**  
 
 - Développement en **C++ et C#** sur microcontrôleurs ARM Cortex-M et Cortex-A.  
@@ -100,7 +102,7 @@ Passionné d'informatique et de nouvelles technologies depuis l'enfance, le dév
 
 ---
 
-### FAUN Environnement (2013 – 2021)  
+#### FAUN Environnement (2013 – 2021)  
 
 **Ingénieur systèmes embarqués** (2016 – 2021)  
 - **Définition et mise en place d’une architecture IoT** pour collecte, sécurisation et analyse des données.  
@@ -117,7 +119,7 @@ Passionné d'informatique et de nouvelles technologies depuis l'enfance, le dév
 
 ---
 
-## Formation
+### Formation
 🎓 **Grenoble INP – Esisar, Valence** (2011 – 2016)  
 Diplôme d’ingénieur en systèmes embarqués (électronique, automatique, informatique et réseaux).  
 Spécialité : électronique, informatique et systèmes – Mention bien.  
