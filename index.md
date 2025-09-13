@@ -41,7 +41,7 @@ title: "CV – Jonathan Luce"
 📧 [jonathan.luce@live.com](mailto:jonathan.luce@live.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/jonathan-luce-864202141/)  
 📞 06.89.40.62.93  
-📍 La Voulte-sur-Rône
+📍 Mobilité: Valence/Montélimar
 
 ### Compétences
 **Langages :** 
@@ -81,11 +81,11 @@ title: "CV – Jonathan Luce"
 
 <div class="cv-right">
 
-# *Ingénieur logiciel embarqués*
+# *Ingénieur logiciel embarqué*
 
 
 ### Résumé
-Passionné d'informatique et de nouvelles technologies depuis l'enfance, le développement logiciel s'est imposé comme une suite logique à mon orientation professionnelle. Je suis donc perpétuellement de nouvelles connaissances afin de progresser dans le monde du logiciel.
+Passionné d'informatique et de nouvelles technologies depuis l'enfance, j'ai naturellement choisi le développement logiciel comme une suite logique à mon orientation professionnelle. Spécialisé en développement embarqué, je cherche en permanence à approfondir mes compétences et à contribuer à des projets logiciels innovants.
 
 ---
 
@@ -108,7 +108,7 @@ Passionné d'informatique et de nouvelles technologies depuis l'enfance, le dév
 **Ingénieur systèmes embarqués** (2016 – 2021)  
 - **Définition et mise en place d’une architecture IoT** pour collecte, sécurisation et analyse des données.  
 - Développement logiciel embarqué en **C/C++/Shell** pour véhicules industriels (Contrôle-commande, CAN, IoT).  
-- Refonte d’architectures logicielles pour assurer compatibilité et pérennité matériel/logiciel.  
+- Refonte d’architectures logicielles pour assurer compatibilité et pérennité matériels/logiciels.  
 - Amélioration et correction de l’**IHM embarquée**.  
 - Création d’**outils Python/VBA** pour automatiser les tests et l’analyse des données.  
 - Génération d’images Linux embarquées avec **Yocto**.  
